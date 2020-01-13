@@ -6,7 +6,9 @@ namespace ITEAHub.Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Yuhu!");
+
+            Console.ReadKey();
         }
     }
 }
